@@ -135,7 +135,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+<<<<<<< HEAD
 tbc_env/
+=======
+>>>>>>> 6d9d757cbe308609c371297616fbbfd3c0ca2b0f
 
 # Spyder project settings
 .spyderproject
@@ -169,4 +172,8 @@ cython_debug/
 #.idea/
 
 # PyPI configuration file
+<<<<<<< HEAD
 .pypirc
+=======
+.pypirc
+>>>>>>> 6d9d757cbe308609c371297616fbbfd3c0ca2b0f
